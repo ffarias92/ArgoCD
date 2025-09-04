@@ -1,4 +1,6 @@
-# Esta instalacion solo se aplica cuando Minikube esta instalado
+# Instalacion automatica de ArgoCD 
+
+ATENCION : Esta instalacion solo se aplica cuando Minikube esta instalado
 
 Ejecucion del script :
 
